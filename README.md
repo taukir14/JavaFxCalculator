@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+<img width="1366" height="768" alt="User interface of the calculator" src="https://github.com/user-attachments/assets/d663414b-4c9b-4ee2-a928-362a378d62a6" />
+
+
+
 # 🧮 JavaFX Calculator
 
 A simple and interactive calculator application built using **JavaFX**.  
